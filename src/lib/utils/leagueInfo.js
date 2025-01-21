@@ -13,7 +13,7 @@ export const homepageText = `
   <p>Get ready for intense rivalries, strategic trades, and unforgettable moments.</p>
   <p>Let's make this season one for the books. Good luck, and may the best GM reign supreme</p>
   <p>"Legends aren't born; they're built.</p>
-`;
+
 
 /*   STEP 3   */
 /*
